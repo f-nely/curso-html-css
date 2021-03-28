@@ -12,3 +12,7 @@
     color: #FFF;
     margin: 20px 0;
 }
+
+.main_blog article h3 {
+    color: red;
+}
