@@ -1,4 +1,11 @@
-article p {
+.main_blog {
+    width: 800px;
+    background-color: #CCC;
+    padding: 40px;
+    margin: 0 auto;
+
+}
+.main_blog p {
     color: green;
     text-align: center;
     font-size: 1.5em;
