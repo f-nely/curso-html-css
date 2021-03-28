@@ -14,5 +14,5 @@
 }
 
 .main_blog article h3 {
-    color: red;
+    color: red !important;
 }
