@@ -17,3 +17,7 @@
 .main_blog article h3 {
     color: red !important;
 }
+
+.main_blog article p {
+    font-size: 1.1em;
+}
