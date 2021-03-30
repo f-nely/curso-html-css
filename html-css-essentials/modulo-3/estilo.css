@@ -62,6 +62,15 @@
     background-color: #00CC66;
 }
 
+.btn_red {
+    background-color: #CC0000;
+    color: #FFF;
+}
+
+.btn_red:hover {
+    background-color: #FF3333;
+}
+
 @media(max-width: 640px) {
     .main_blog article {
         flex-basis: calc(100% - 40px);
