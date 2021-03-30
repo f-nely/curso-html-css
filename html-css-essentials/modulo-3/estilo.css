@@ -39,6 +39,25 @@
     -webkit-border-radius: 15px;
 }
 
+.btn {
+    padding: 4px 10px;
+    font-weight: normal;
+    margin: 0 4px;
+}
+
+.btn:hover {
+    cursor: pointer;
+}
+
+.btn_green {
+    background-color: #009933;
+    color: #FFF;
+}
+
+.btn_green:hover {
+    background-color: #00CC66;
+}
+
 @media(max-width: 640px) {
     .main_blog article {
         flex-basis: calc(100% - 40px);
