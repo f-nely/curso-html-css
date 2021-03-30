@@ -29,6 +29,12 @@
     font-size: 1.1em;
 }
 
+.title_medium_red {
+    color: rgb(255, 0, 0);
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
 @media(max-width: 640px) {
     .main_blog article {
         flex-basis: calc(100% - 40px);
