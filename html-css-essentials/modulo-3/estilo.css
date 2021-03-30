@@ -33,6 +33,12 @@
     padding-bottom: 4px;
 }
 
+.radius {
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
 @media(max-width: 640px) {
     .main_blog article {
         flex-basis: calc(100% - 40px);
