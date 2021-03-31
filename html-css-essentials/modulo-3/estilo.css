@@ -33,44 +33,6 @@
     padding-bottom: 4px;
 }
 
-.radius {
-    border-radius: 15px;
-    -moz-border-radius: 15px;
-    -webkit-border-radius: 15px;
-}
-
-.btn {
-    padding: 8px 20px;
-    font-weight: normal;
-    margin: 0 4px;
-    border-radius: 5px;
-    -moz-border-radius: 5px;
-    -webkit-border-radius: 5px;
-    text-decoration: none;
-}
-
-.btn:hover {
-    cursor: pointer;
-}
-
-.btn_green {
-    background-color: #009933;
-    color: #FFF;
-}
-
-.btn_green:hover {
-    background-color: #00CC66;
-}
-
-.btn_red {
-    background-color: #CC0000;
-    color: #FFF;
-}
-
-.btn_red:hover {
-    background-color: #FF3333;
-}
-
 @media(max-width: 640px) {
     .main_blog article {
         flex-basis: calc(100% - 40px);
