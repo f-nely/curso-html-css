@@ -55,7 +55,7 @@
 }
 
 .main_cta .main_cta_content {
-    width: 1300px;
+    max-width: 1300px;
     margin: 0 auto;
 }
 
@@ -83,4 +83,10 @@
     border-radius: 5px;
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
+}
+
+.main_cta .main_cta_content .main_cta_content_spacer {
+    margin: 0 auto;
+    max-width: 1300px;
+    padding: 160px 40px;
 }
